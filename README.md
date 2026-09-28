@@ -21,13 +21,11 @@
 
 ### Who I am
 
-Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering College (2022–26), **8.9 CGPA**.
+Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering College (2022–26).
 
-I build, ship, and maintain production applications — full-stack web platforms, cross-platform mobile apps, and backend systems that handle real users. I've taken products from zero to Play Store, managed deployments on AWS, and kept live systems running reliably under load.
+I build, ship, and maintain production apps — full-stack platforms, mobile apps, and backend systems handling real users. Shipped products with **10K+ downloads**, trained **800+ students**, and worked the full stack from APIs to cloud deployments. Currently exploring AI/LLM engineering and on-chain systems.
 
-I've shipped apps with **10K+ downloads**, trained **800+ students**, and worked across the entire stack — from database schema design and REST APIs to Flutter UIs, Nginx configs, and cloud infrastructure. Currently exploring AI/LLM engineering and on-chain systems.
-
-I care about writing software that works, scales, and doesn't break in production.
+Open to freelance projects and interesting collabs.
 
 <br/>
 
