@@ -44,6 +44,7 @@ I care about writing software that works, scales, and doesn't break in productio
 ▸ building   Trading & Polymarket bots
 ▸ learning   LLM engineering, RAG, agents
 ▸ exploring  Web3, Solidity, on-chain systems
+▸ freelance  open for projects & collabs
 ▸ open to    Interesting problems
 ```
 
