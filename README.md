@@ -12,6 +12,10 @@
 
 <br/>
 
+[![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Freelance%20%26%20Full%20Time-22c55e?style=for-the-badge&logoColor=white)](mailto:gouravraut1234@gmail.com)
+
+<br/>
+
 ![Followers](https://img.shields.io/github/followers/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=followers)&nbsp;
 ![Stars](https://img.shields.io/github/stars/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=stars)&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=bossgghere&color=6366F1&style=flat-square&label=profile+views)
@@ -323,6 +327,14 @@ Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangG
 
 </div>
 
+<div align="center">
+<br/>
+
+<!-- Wakatime coding activity — sign up at wakatime.com, install the IDE plugin, then replace USERNAME below with your Wakatime username -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bossgghere&hide_border=true&bg_color=13131F&title_color=6366F1&icon_color=818CF8&text_color=94A3B8&layout=compact&langs_count=8" alt="Wakatime Stats" />
+
+</div>
+
 <br/>
 
 ---
@@ -360,6 +372,10 @@ A software agency focused on turning ideas into live products.
 [![GitHub](https://img.shields.io/badge/GitHub-bossgghere-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bossgghere)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Raut-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-raut)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gourav.fun-818CF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gourav.fun/)
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-gouravraut1234%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravraut1234@gmail.com)
 
 <br/>
 
