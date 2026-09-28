@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=4000&pause=1200&color=D97706&center=true&vCenter=true&width=560&lines=Building+full-stack+products+with+Node.js+%26+React;Shipping+mobile+apps+in+Flutter+%26+React+Native;Exploring+LLMs%2C+RAG+pipelines+%26+AI+agents;Working+on+trading+strategy+backtesting;Learning+by+building+real+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=4000&pause=1200&color=D97706&center=true&vCenter=true&width=600&lines=Building+full-stack+products+with+Node.js+%26+React;Shipping+mobile+apps+with+10K%2B+downloads;Exploring+LLMs%2C+RAG+pipelines+%26+AI+agents;Building+trading+bots+%26+backtesting+engines;Trained+800%2B+students+on+Flutter+%26+REST+APIs" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -25,11 +25,13 @@
 
 ### Who I am
 
-Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering College (2022–26).
+Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering College (2022–26), **8.9 CGPA**.
 
-I build production-grade full-stack applications, cross-platform mobile apps, and am currently learning my way into AI/LLM engineering. I've worked across the stack — from REST APIs and PostgreSQL schemas to Flutter UIs and AWS deployments.
+I build, ship, and maintain production applications — full-stack web platforms, cross-platform mobile apps, and backend systems that handle real users. I've taken products from zero to Play Store, managed deployments on AWS, and kept live systems running reliably under load.
 
-I care about writing clean, functional code and shipping things that actually work.
+I've shipped apps with **10K+ downloads**, trained **800+ students**, and worked across the entire stack — from database schema design and REST APIs to Flutter UIs, Nginx configs, and cloud infrastructure. Currently exploring AI/LLM engineering and on-chain systems.
+
+I care about writing software that works, scales, and doesn't break in production.
 
 </td>
 <td width="4%"></td>
@@ -39,9 +41,9 @@ I care about writing clean, functional code and shipping things that actually wo
 
 ```
 ▸ building   Skippr — community platform
-▸ building   Trading backtesting engine
+▸ building   Trading & Polymarket bots
 ▸ learning   LLM engineering, RAG, agents
-▸ exploring  LangGraph & AI workflows
+▸ exploring  Web3, Solidity, on-chain systems
 ▸ open to    Interesting problems
 ```
 
@@ -56,9 +58,83 @@ Node.js · PostgreSQL · React · Flutter · Python
 
 ---
 
-## Stack
+## Experience
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossgghere&layout=compact&hide_border=true&bg_color=1C1917&title_color=D97706&text_color=A8A29E&langs_count=6" alt="Top Languages" width="38%" />
+<table width="100%">
+<tr>
+<td width="22%" valign="top">
+
+`Jun 2025 – present`
+
+</td>
+<td width="78%" valign="top">
+
+**Full Stack Developer Intern** &nbsp;·&nbsp; SUAS Enterprises LLP
+
+Built and deployed [**Skippr**](https://www.helloskippr.com/) — a production community concierge app on the Play Store. Engineered backend architecture, auth workflows, REST APIs, and cloud services on AWS EC2.
+
+`React Native` `Expo` `Supabase` `PostgreSQL` `AWS`
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="22%" valign="top">
+
+`Nov 2025 – Apr 2026`
+
+</td>
+<td width="78%" valign="top">
+
+**Full Stack Intern** &nbsp;·&nbsp; Mandin Studios
+
+Building 2 production apps in Flutter and React Native, both live on the Play Store. Scalable backends in Node.js and Python (Django). Full ownership of frontend, backend APIs, database design, and deployment.
+
+`Flutter` `React Native` `Node.js` `Django` `PostgreSQL`
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="22%" valign="top">
+
+`Aug 2025 – Nov 2025`
+
+</td>
+<td width="78%" valign="top">
+
+**Flutter Full Stack Intern** &nbsp;·&nbsp; VOIX Digital
+
+Developed and launched [**SnapLay**](https://play.google.com/store/apps/details?id=com.company.bingebit&hl=en_IN) — a scalable OTT app with **10K+ downloads**. Integrated Razorpay, Firebase Auth, ads, and AWS EC2/S3. Achieved 30% faster media delivery. Flutter (GetX + Clean Architecture) frontend with Node.js + Express backend.
+
+`Flutter` `Node.js` `Express` `Firebase` `Razorpay` `AWS`
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="22%" valign="top">
+
+`May 2025 – Jul 2025`
+
+</td>
+<td width="78%" valign="top">
+
+**Flutter Developer & Trainer** &nbsp;·&nbsp; Cloud InfraTech Solutions
+
+Built EduLink, a real-time learning app (Flutter GetX + MERN), increasing engagement by 35%. Conducted training for **800+ students** on Flutter architecture, REST APIs, and UI best practices at IIIT Ongole and partner colleges.
+
+`Flutter` `React` `Node.js` `MongoDB` `GetX`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## Stack
 
 **Core languages**
 
@@ -67,18 +143,21 @@ Node.js · PostgreSQL · React · Flutter · Python
 ![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=FBBF24)
 ![Dart](https://img.shields.io/badge/Dart-292524?style=flat-square&logo=dart&logoColor=D97706)
 ![C++](https://img.shields.io/badge/C++-292524?style=flat-square&logo=cplusplus&logoColor=A8A29E)
+![Solidity](https://img.shields.io/badge/Solidity-292524?style=flat-square&logo=solidity&logoColor=FBBF24)
+![Rust](https://img.shields.io/badge/Rust-292524?style=flat-square&logo=rust&logoColor=D97706)
 ![SQL](https://img.shields.io/badge/SQL-292524?style=flat-square&logo=postgresql&logoColor=A8A29E)
 
 **Backend & databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=FBBF24)
 ![Express](https://img.shields.io/badge/Express-292524?style=flat-square&logo=express&logoColor=A8A29E)
+![Django](https://img.shields.io/badge/Django-292524?style=flat-square&logo=django&logoColor=FBBF24)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=D97706)
 ![Supabase](https://img.shields.io/badge/Supabase-292524?style=flat-square&logo=supabase&logoColor=FBBF24)
 ![MongoDB](https://img.shields.io/badge/MongoDB-292524?style=flat-square&logo=mongodb&logoColor=A8A29E)
 ![MySQL](https://img.shields.io/badge/MySQL-292524?style=flat-square&logo=mysql&logoColor=A8A29E)
-![Firebase](https://img.shields.io/badge/Firebase-292524?style=flat-square&logo=firebase&logoColor=FBBF24)
-![Sequelize](https://img.shields.io/badge/Sequelize-292524?style=flat-square&logo=sequelize&logoColor=D97706)
+![Prisma](https://img.shields.io/badge/Prisma-292524?style=flat-square&logo=prisma&logoColor=FBBF24)
+![Firebase](https://img.shields.io/badge/Firebase-292524?style=flat-square&logo=firebase&logoColor=D97706)
 
 **Frontend & mobile**
 
@@ -89,22 +168,24 @@ Node.js · PostgreSQL · React · Flutter · Python
 ![Tailwind](https://img.shields.io/badge/Tailwind-292524?style=flat-square&logo=tailwindcss&logoColor=D97706)
 ![Vite](https://img.shields.io/badge/Vite-292524?style=flat-square&logo=vite&logoColor=FBBF24)
 
-**AI / LLM & cloud**
+**AI / LLM, Web3 & cloud**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-292524?style=flat-square&logo=langchain&logoColor=FBBF24)
 ![Gemini](https://img.shields.io/badge/Gemini-292524?style=flat-square&logo=google&logoColor=D97706)
-![RAG](https://img.shields.io/badge/RAG-292524?style=flat-square&logo=openai&logoColor=A8A29E)
+![n8n](https://img.shields.io/badge/n8n-292524?style=flat-square&logo=n8n&logoColor=FBBF24)
+![Ethereum](https://img.shields.io/badge/Ethereum-292524?style=flat-square&logo=ethereum&logoColor=A8A29E)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-292524?style=flat-square&logo=amazonec2&logoColor=FBBF24)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-292524?style=flat-square&logo=amazons3&logoColor=D97706)
-![Nginx](https://img.shields.io/badge/Nginx-292524?style=flat-square&logo=nginx&logoColor=A8A29E)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-292524?style=flat-square&logo=cloudflare&logoColor=FBBF24)
 ![Vercel](https://img.shields.io/badge/Vercel-292524?style=flat-square&logo=vercel&logoColor=F5F5F4)
+![Nginx](https://img.shields.io/badge/Nginx-292524?style=flat-square&logo=nginx&logoColor=A8A29E)
 ![Git](https://img.shields.io/badge/Git-292524?style=flat-square&logo=git&logoColor=D97706)
 
 <br/>
 
 ---
 
-## Projects
+## Builds
 
 <div align="center">
 <table>
@@ -112,7 +193,7 @@ Node.js · PostgreSQL · React · Flutter · Python
 <td width="50%" valign="top">
 <br/>
 
-**🏘️ Skippr** &nbsp;·&nbsp; *Community Concierge Platform*
+**🏘️ Skippr** &nbsp;·&nbsp; *Community Concierge Platform* &nbsp; [↗](https://www.helloskippr.com/)
 
 Full-stack platform for residential communities. Resident auth & OTP login, block/tower management, service requests, task workflows, notifications, admin dashboard, and a React Native mobile app. Deployed on AWS EC2 with Nginx + PM2.
 
@@ -128,15 +209,48 @@ Full-stack platform for residential communities. Resident auth & OTP login, bloc
 <td width="50%" valign="top">
 <br/>
 
-**🎬 Snaplay** &nbsp;·&nbsp; *OTT Streaming Platform*
+**🎬 Snaplay** &nbsp;·&nbsp; *OTT Streaming Platform* &nbsp; [↗ Play Store](https://play.google.com/store/apps/details?id=com.company.bingebit&hl=en_IN)
 
-Full-stack OTT platform for browsing and watching movies. Node.js backend handles content management, user auth, and streaming delivery. Clean React frontend for discovery and playback.
+Scalable OTT app with **10K+ downloads**. Flutter (GetX + Clean Architecture) frontend, Node.js + Express backend, Razorpay payments, Firebase Auth, ads integration, AWS EC2/S3 for media — achieving 30% faster delivery.
+
+![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FBBF24)
+![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=D97706)
+![Firebase](https://img.shields.io/badge/Firebase-292524?style=flat-square&logo=firebase&logoColor=FBBF24)
+![Razorpay](https://img.shields.io/badge/Razorpay-292524?style=flat-square&logo=razorpay&logoColor=A8A29E)
+![AWS](https://img.shields.io/badge/AWS-292524?style=flat-square&logo=amazonaws&logoColor=A8A29E)
+
+<br/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br/>
+
+**🤖 Polymarket Trading Bot** &nbsp;·&nbsp; *Automated Strategy Execution*
+
+Automated trading bot for Polymarket — executes trades based on user-defined strategies, manages Polygon wallets, handles position sizing, risk control, and automated buy/sell execution.
 
 ![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=FBBF24)
-![Express](https://img.shields.io/badge/Express-292524?style=flat-square&logo=express&logoColor=A8A29E)
+![TypeScript](https://img.shields.io/badge/TypeScript-292524?style=flat-square&logo=typescript&logoColor=D97706)
+![Web3](https://img.shields.io/badge/Web3-292524?style=flat-square&logo=web3dotjs&logoColor=FBBF24)
+![Polygon](https://img.shields.io/badge/Polygon-292524?style=flat-square&logo=polygon&logoColor=A8A29E)
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+<br/>
+
+**⚡ Lovable Clone** &nbsp;·&nbsp; *AI No-Code App Builder*
+
+Reverse-engineered Lovable — an AI-powered no-code app builder using React + OpenAI APIs. Modular Prisma–MySQL backend with improved scalability, database efficiency, and security compliance.
+
 ![React](https://img.shields.io/badge/React-292524?style=flat-square&logo=react&logoColor=FBBF24)
-![MongoDB](https://img.shields.io/badge/MongoDB-292524?style=flat-square&logo=mongodb&logoColor=D97706)
-![JWT](https://img.shields.io/badge/JWT-292524?style=flat-square&logo=jsonwebtokens&logoColor=A8A29E)
+![TypeScript](https://img.shields.io/badge/TypeScript-292524?style=flat-square&logo=typescript&logoColor=D97706)
+![Prisma](https://img.shields.io/badge/Prisma-292524?style=flat-square&logo=prisma&logoColor=FBBF24)
+![MySQL](https://img.shields.io/badge/MySQL-292524?style=flat-square&logo=mysql&logoColor=A8A29E)
+![OpenAI](https://img.shields.io/badge/OpenAI-292524?style=flat-square&logo=openai&logoColor=FBBF24)
 
 <br/>
 
@@ -148,16 +262,33 @@ Full-stack OTT platform for browsing and watching movies. Node.js backend handle
 
 **📈 Backtesting Engine** &nbsp;·&nbsp; *Trading Strategy Research*
 
-Python engine for evaluating trading strategies on historical market data. EMA-based strategies with configurable parameters; surfaces Sharpe ratio, max drawdown, and win rate for iteration.
+Python engine for evaluating trading strategies on historical market data. EMA-based strategies with configurable parameters — surfaces Sharpe ratio, max drawdown, and win rate for iteration.
 
 ![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=FBBF24)
 ![yfinance](https://img.shields.io/badge/yfinance-292524?style=flat-square&logoColor=D97706)
 ![Pandas](https://img.shields.io/badge/Pandas-292524?style=flat-square&logo=pandas&logoColor=FBBF24)
-![QuantConnect](https://img.shields.io/badge/QuantConnect%20%2F%20Lean-292524?style=flat-square&logoColor=A8A29E)
+![QuantConnect](https://img.shields.io/badge/Lean-292524?style=flat-square&logoColor=A8A29E)
 
 <br/>
 
 </td>
+<td width="50%" valign="top">
+<br/>
+
+**🔗 Web3 Bank DApp** &nbsp;·&nbsp; *Decentralized Banking*
+
+Decentralized banking DApp on Ethereum — secure on-chain transactions via Solidity smart contracts, BLoC-based state management in Flutter, reducing transaction failures by 25%.
+
+![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FBBF24)
+![Solidity](https://img.shields.io/badge/Solidity-292524?style=flat-square&logo=solidity&logoColor=D97706)
+![Ethereum](https://img.shields.io/badge/Ethereum-292524?style=flat-square&logo=ethereum&logoColor=FBBF24)
+![Truffle](https://img.shields.io/badge/Truffle-292524?style=flat-square&logoColor=A8A29E)
+
+<br/>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <br/>
 
@@ -173,34 +304,17 @@ My personal site — clean, fast, focused on showcasing work and stack. Built wi
 <br/>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <br/>
 
 **🤖 AI / LLM Engineering** &nbsp;·&nbsp; *Currently Exploring*
 
-Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangGraph workflows. Focused on production-relevant tooling, not prototypes.
+Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangGraph workflows, and n8n automations. Focused on production-relevant tooling, not prototypes.
 
 ![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=FBBF24)
 ![LangGraph](https://img.shields.io/badge/LangGraph-292524?style=flat-square&logo=langchain&logoColor=D97706)
 ![Gemini](https://img.shields.io/badge/Gemini-292524?style=flat-square&logo=google&logoColor=FBBF24)
-![Vector DB](https://img.shields.io/badge/Vector%20DBs-292524?style=flat-square&logoColor=A8A29E)
-
-<br/>
-
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**📱 Mobile & Full Stack** &nbsp;·&nbsp; *Production Experience*
-
-Cross-platform mobile apps in Flutter and React Native across internships and independent work — integrating Firebase, Razorpay, AWS, and Node.js backends into live apps.
-
-![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FBBF24)
-![React Native](https://img.shields.io/badge/React%20Native-292524?style=flat-square&logo=react&logoColor=D97706)
-![Firebase](https://img.shields.io/badge/Firebase-292524?style=flat-square&logo=firebase&logoColor=FBBF24)
-![Razorpay](https://img.shields.io/badge/Razorpay-292524?style=flat-square&logo=razorpay&logoColor=A8A29E)
+![n8n](https://img.shields.io/badge/n8n-292524?style=flat-square&logo=n8n&logoColor=A8A29E)
 
 <br/>
 
@@ -217,16 +331,23 @@ Cross-platform mobile apps in Flutter and React Native across internships and in
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bossgghere&hide_border=true&bg_color=1C1917&color=D97706&line=FBBF24&point=F5F5F4&area=true&area_color=292524" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bossgghere&show_icons=true&hide_border=true&count_private=true&bg_color=1C1917&title_color=D97706&icon_color=FBBF24&text_color=A8A29E&ring_color=D97706" alt="GitHub Stats" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossgghere&layout=compact&hide_border=true&bg_color=1C1917&title_color=D97706&text_color=A8A29E&langs_count=8" alt="Top Languages" height="170" />
 
 </div>
 
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bossgghere&show_icons=true&hide_border=true&count_private=true&bg_color=1C1917&title_color=D97706&icon_color=FBBF24&text_color=A8A29E&ring_color=D97706" alt="GitHub Stats" height="165" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=bossgghere&hide_border=true&background=1C1917&ring=D97706&fire=FBBF24&currStreakLabel=D97706&sideLabels=78716C&dates=78716C&sideNums=F5F5F4&currStreakNum=F5F5F4" alt="Streak" height="165" />
+<img src="https://streak-stats.demolab.com/?user=bossgghere&hide_border=true&background=1C1917&ring=D97706&fire=FBBF24&currStreakLabel=D97706&sideLabels=78716C&dates=78716C&sideNums=F5F5F4&currStreakNum=F5F5F4" alt="Streak" width="55%" />
+
+</div>
+
+<div align="center">
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bossgghere&hide_border=true&bg_color=1C1917&color=D97706&line=FBBF24&point=F5F5F4&area=true&area_color=292524" alt="Contribution Graph" width="100%" />
 
 </div>
 
