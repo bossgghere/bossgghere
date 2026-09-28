@@ -344,14 +344,27 @@ Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangG
 
 <div align="center">
 
-**Let's build something.**
+### 🏢 One Day Studio
 
-[![GitHub](https://img.shields.io/badge/-bossgghere-1E1E2E?style=flat-square&logo=github&logoColor=E2E8F0)](https://github.com/bossgghere)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-Gourav%20Raut-1E1E2E?style=flat-square&logo=linkedin&logoColor=6366F1)](https://www.linkedin.com/in/gourav-raut)&nbsp;
-[![Portfolio](https://img.shields.io/badge/-gourav.fun-1E1E2E?style=flat-square&logo=vercel&logoColor=E2E8F0)](https://www.gourav.fun/)
+**We ship full production-level applications — fast.**
+A software agency focused on turning ideas into live products.
+
+[![One Day Studio](https://img.shields.io/badge/One%20Day%20Studio-onedaystudio.in-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.onedaystudio.in/)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1E1E2E,50:13131F,100:0F0F1A&height=100&section=footer&reversal=true" alt="Footer" width="100%" />
+---
+
+### Let's build something
+
+[![GitHub](https://img.shields.io/badge/GitHub-bossgghere-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bossgghere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Raut-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-raut)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gourav.fun-818CF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gourav.fun/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bossgghere&color=6366F1&style=flat-square&label=profile+views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,60:1a1a3e,100:0F0F1A&height=140&section=footer" alt="Footer" width="100%" />
