@@ -62,69 +62,61 @@ Node.js · PostgreSQL · React · Flutter · Python
 
 <table width="100%">
 <tr>
-<td width="22%" valign="top">
+<td align="center" width="4%">🟠</td>
+<td width="96%">
 
-`Jun 2025 – present`
+<img src="https://img.shields.io/badge/Jun_2025_–_present-292524?style=flat-square&logoColor=D97706" /> &nbsp; ![Current](https://img.shields.io/badge/current-D97706?style=flat-square&logoColor=white)
 
-</td>
-<td width="78%" valign="top">
+**Full Stack Developer Intern** &nbsp;·&nbsp; **SUAS Enterprises LLP**
 
-**Full Stack Developer Intern** &nbsp;·&nbsp; SUAS Enterprises LLP
+Built and deployed [**Skippr**](https://www.helloskippr.com/) — a production community concierge app live on the Play Store. Owned backend architecture, auth workflows, REST APIs, and cloud infrastructure end to end.
 
-Built and deployed [**Skippr**](https://www.helloskippr.com/) — a production community concierge app on the Play Store. Engineered backend architecture, auth workflows, REST APIs, and cloud services on AWS EC2.
-
-`React Native` `Expo` `Supabase` `PostgreSQL` `AWS`
+![React Native](https://img.shields.io/badge/React%20Native-292524?style=flat-square&logo=react&logoColor=FBBF24) ![Expo](https://img.shields.io/badge/Expo-292524?style=flat-square&logo=expo&logoColor=A8A29E) ![Supabase](https://img.shields.io/badge/Supabase-292524?style=flat-square&logo=supabase&logoColor=FBBF24) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=D97706) ![AWS](https://img.shields.io/badge/AWS-292524?style=flat-square&logo=amazonaws&logoColor=A8A29E)
 
 </td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
+<tr><td align="center">┊</td><td></td></tr>
 <tr>
-<td width="22%" valign="top">
+<td align="center" width="4%">🟠</td>
+<td width="96%">
 
-`Nov 2025 – Apr 2026`
+<img src="https://img.shields.io/badge/Nov_2025_–_Apr_2026-292524?style=flat-square&logoColor=A8A29E" />
 
-</td>
-<td width="78%" valign="top">
+**Full Stack Intern** &nbsp;·&nbsp; **Mandin Studios**
 
-**Full Stack Intern** &nbsp;·&nbsp; Mandin Studios
+Building 2 production Flutter + React Native apps, both live on the Play Store. Full ownership — frontend, backend APIs, database design, and deployment with Node.js and Django.
 
-Building 2 production apps in Flutter and React Native, both live on the Play Store. Scalable backends in Node.js and Python (Django). Full ownership of frontend, backend APIs, database design, and deployment.
-
-`Flutter` `React Native` `Node.js` `Django` `PostgreSQL`
+![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FBBF24) ![React Native](https://img.shields.io/badge/React%20Native-292524?style=flat-square&logo=react&logoColor=D97706) ![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=FBBF24) ![Django](https://img.shields.io/badge/Django-292524?style=flat-square&logo=django&logoColor=A8A29E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=D97706)
 
 </td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
+<tr><td align="center">┊</td><td></td></tr>
 <tr>
-<td width="22%" valign="top">
+<td align="center" width="4%">🟠</td>
+<td width="96%">
 
-`Aug 2025 – Nov 2025`
+<img src="https://img.shields.io/badge/Aug_2025_–_Nov_2025-292524?style=flat-square&logoColor=A8A29E" />
 
-</td>
-<td width="78%" valign="top">
+**Flutter Full Stack Intern** &nbsp;·&nbsp; **VOIX Digital**
 
-**Flutter Full Stack Intern** &nbsp;·&nbsp; VOIX Digital
+Developed and launched [**SnapLay**](https://play.google.com/store/apps/details?id=com.company.bingebit&hl=en_IN) — scalable OTT app with **10K+ downloads**. Integrated Razorpay, Firebase Auth, ads, and AWS EC2/S3. Achieved 30% faster media delivery and 18% retention boost.
 
-Developed and launched [**SnapLay**](https://play.google.com/store/apps/details?id=com.company.bingebit&hl=en_IN) — a scalable OTT app with **10K+ downloads**. Integrated Razorpay, Firebase Auth, ads, and AWS EC2/S3. Achieved 30% faster media delivery. Flutter (GetX + Clean Architecture) frontend with Node.js + Express backend.
-
-`Flutter` `Node.js` `Express` `Firebase` `Razorpay` `AWS`
+![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FBBF24) ![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=D97706) ![Firebase](https://img.shields.io/badge/Firebase-292524?style=flat-square&logo=firebase&logoColor=FBBF24) ![Razorpay](https://img.shields.io/badge/Razorpay-292524?style=flat-square&logo=razorpay&logoColor=A8A29E) ![AWS](https://img.shields.io/badge/AWS-292524?style=flat-square&logo=amazonaws&logoColor=A8A29E)
 
 </td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
+<tr><td align="center">┊</td><td></td></tr>
 <tr>
-<td width="22%" valign="top">
+<td align="center" width="4%">🟠</td>
+<td width="96%">
 
-`May 2025 – Jul 2025`
+<img src="https://img.shields.io/badge/May_2025_–_Jul_2025-292524?style=flat-square&logoColor=A8A29E" />
 
-</td>
-<td width="78%" valign="top">
+**Flutter Developer & Trainer** &nbsp;·&nbsp; **Cloud InfraTech Solutions**
 
-**Flutter Developer & Trainer** &nbsp;·&nbsp; Cloud InfraTech Solutions
+Built EduLink, a real-time learning app (Flutter GetX + MERN) increasing engagement by 35%. Trained **800+ students** on Flutter architecture, REST APIs, and UI best practices at IIIT Ongole.
 
-Built EduLink, a real-time learning app (Flutter GetX + MERN), increasing engagement by 35%. Conducted training for **800+ students** on Flutter architecture, REST APIs, and UI best practices at IIIT Ongole and partner colleges.
-
-`Flutter` `React` `Node.js` `MongoDB` `GetX`
+![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FBBF24) ![React](https://img.shields.io/badge/React-292524?style=flat-square&logo=react&logoColor=D97706) ![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=FBBF24) ![MongoDB](https://img.shields.io/badge/MongoDB-292524?style=flat-square&logo=mongodb&logoColor=A8A29E)
 
 </td>
 </tr>
