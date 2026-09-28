@@ -19,10 +19,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="52%" valign="top">
-
 ### Who I am
 
 Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering College (2022–26), **8.9 CGPA**.
@@ -32,28 +28,6 @@ I build, ship, and maintain production applications — full-stack web platforms
 I've shipped apps with **10K+ downloads**, trained **800+ students**, and worked across the entire stack — from database schema design and REST APIs to Flutter UIs, Nginx configs, and cloud infrastructure. Currently exploring AI/LLM engineering and on-chain systems.
 
 I care about writing software that works, scales, and doesn't break in production.
-
-</td>
-<td width="4%"></td>
-<td width="44%" valign="top">
-
-### Right now
-
-```
-▸ building   Skippr — community platform
-▸ building   Trading & Polymarket bots
-▸ learning   LLM engineering, RAG, agents
-▸ exploring  Web3, Solidity, on-chain systems
-▸ freelance  open for projects & collabs
-▸ open to    Interesting problems
-```
-
-**Stack I reach for first**
-Node.js · PostgreSQL · React · Flutter · Python
-
-</td>
-</tr>
-</table>
 
 <br/>
 
