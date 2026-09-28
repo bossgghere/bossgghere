@@ -327,14 +327,6 @@ Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangG
 
 </div>
 
-<div align="center">
-<br/>
-
-<!-- Wakatime coding activity — sign up at wakatime.com, install the IDE plugin, then replace USERNAME below with your Wakatime username -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bossgghere&hide_border=true&bg_color=13131F&title_color=6366F1&icon_color=818CF8&text_color=94A3B8&layout=compact&langs_count=8" alt="Wakatime Stats" />
-
-</div>
-
 <br/>
 
 ---
