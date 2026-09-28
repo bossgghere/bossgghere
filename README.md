@@ -325,10 +325,13 @@ Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangG
 <div align="center">
 <table><tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=bossgghere&show_icons=true&hide_border=true&bg_color=1C1917&title_color=D97706&icon_color=FBBF24&text_color=A8A29E&ring_color=D97706" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bossgghere&theme=github_dark" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossgghere&layout=compact&hide_border=true&bg_color=1C1917&title_color=D97706&text_color=A8A29E&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bossgghere&theme=github_dark" alt="Top Languages" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bossgghere&theme=github_dark" alt="Most Used" />
 </td>
 </tr></table>
 </div>
@@ -341,7 +344,7 @@ Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangG
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bossgghere&hide_border=true&bg_color=1C1917&color=D97706&line=FBBF24&point=F5F5F4&area=true&area_color=292524" alt="Contribution Graph" width="100%" />
+![Contribution Graph](https://ghchart.rshah.org/D97706/bossgghere)
 
 </div>
 
