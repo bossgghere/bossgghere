@@ -163,6 +163,41 @@ Built and shipped cross-platform mobile apps in Flutter and React Native across 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Snaplay
+**OTT Streaming Platform**
+
+A full-stack OTT platform for browsing and watching movies. Built with a Node.js backend powering content management, user authentication, and streaming delivery — with a clean frontend for discovery and playback.
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-313244?style=flat-square&logo=nodedotjs&logoColor=A6E3A1)
+![Express](https://img.shields.io/badge/Express-313244?style=flat-square&logo=express&logoColor=CDD6F4)
+![React](https://img.shields.io/badge/React-313244?style=flat-square&logo=react&logoColor=89DCEB)
+![MongoDB](https://img.shields.io/badge/MongoDB-313244?style=flat-square&logo=mongodb&logoColor=A6E3A1)
+![JWT](https://img.shields.io/badge/JWT-313244?style=flat-square&logo=jsonwebtokens&logoColor=CDD6F4)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 gourav.fun
+**Personal Portfolio**
+
+My personal portfolio — built to showcase my work, stack, and projects. Designed with a focus on clean presentation and performance, deployed on Vercel.
+
+[gourav.fun](https://www.gourav.fun/)
+
+<br/>
+
+![React](https://img.shields.io/badge/React-313244?style=flat-square&logo=react&logoColor=89DCEB)
+![Vite](https://img.shields.io/badge/Vite-313244?style=flat-square&logo=vite&logoColor=CBA6F7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-313244?style=flat-square&logo=tailwindcss&logoColor=89DCEB)
+![Vercel](https://img.shields.io/badge/Vercel-313244?style=flat-square&logo=vercel&logoColor=CDD6F4)
+
+</td>
+</tr>
 </table>
 </div>
 
