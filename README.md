@@ -330,22 +330,23 @@ Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangG
 ## Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bossgghere&show_icons=true&hide_border=true&count_private=true&bg_color=1C1917&title_color=D97706&icon_color=FBBF24&text_color=A8A29E&ring_color=D97706" alt="GitHub Stats" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossgghere&layout=compact&hide_border=true&bg_color=1C1917&title_color=D97706&text_color=A8A29E&langs_count=8" alt="Top Languages" height="170" />
-
+<table><tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=bossgghere&show_icons=true&hide_border=true&bg_color=1C1917&title_color=D97706&icon_color=FBBF24&text_color=A8A29E&ring_color=D97706" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossgghere&layout=compact&hide_border=true&bg_color=1C1917&title_color=D97706&text_color=A8A29E&langs_count=8" alt="Top Languages" />
+</td>
+</tr></table>
 </div>
 
 <div align="center">
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=bossgghere&hide_border=true&background=1C1917&ring=D97706&fire=FBBF24&currStreakLabel=D97706&sideLabels=78716C&dates=78716C&sideNums=F5F5F4&currStreakNum=F5F5F4" alt="Streak" width="55%" />
 
 </div>
 
 <div align="center">
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bossgghere&hide_border=true&bg_color=1C1917&color=D97706&line=FBBF24&point=F5F5F4&area=true&area_color=292524" alt="Contribution Graph" width="100%" />
 
