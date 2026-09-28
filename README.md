@@ -1,259 +1,264 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Gourav%20Raut&fontSize=60&fontColor=CDD6F4&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Building%20Products&descAlignY=62&descSize=18&descColor=CBA6F7" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0C0A09,50:1C1917,100:292524&height=185&section=header&text=Gourav%20Raut&fontSize=58&fontColor=F5F5F4&animation=fadeIn&fontAlignY=45&fontAlign=35&desc=software%20engineer%20%E2%80%94%20full%20stack%20%7C%20mobile%20%7C%20AI&descSize=16&descColor=A8A29E&descAlign=36&descAlignY=63" alt="Header" width="100%" />
+
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+Node.js%2C+React+%26+Flutter;Exploring+LLMs%2C+RAG+%26+AI+Agents;Trading+%26+Backtesting+Systems;Learning+by+building+real+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=4000&pause=1200&color=D97706&center=true&vCenter=true&width=560&lines=Building+full-stack+products+with+Node.js+%26+React;Shipping+mobile+apps+in+Flutter+%26+React+Native;Exploring+LLMs%2C+RAG+pipelines+%26+AI+agents;Working+on+trading+strategy+backtesting;Learning+by+building+real+things" alt="Typing SVG" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-bossgghere-1e1e2e?style=for-the-badge&logo=github&logoColor=CDD6F4)](https://github.com/bossgghere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Raut-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=CBA6F7)](https://www.linkedin.com/in/gourav-raut)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gourav.fun-1e1e2e?style=for-the-badge&logo=vercel&logoColor=B4BEFE)](https://www.gourav.fun/)
+[![GitHub](https://img.shields.io/badge/-bossgghere-292524?style=flat-square&logo=github&logoColor=F5F5F4)](https://github.com/bossgghere)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-Gourav%20Raut-292524?style=flat-square&logo=linkedin&logoColor=D97706)](https://www.linkedin.com/in/gourav-raut)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-gourav.fun-292524?style=flat-square&logo=vercel&logoColor=F5F5F4)](https://www.gourav.fun/)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=bossgghere&color=D97706&style=flat-square&label=profile+views)
 
 </div>
 
+<br/>
+
 ---
 
-## About Me
+<table>
+<tr>
+<td width="52%" valign="top">
 
-```python
-class Gourav:
-    name       = "Gourav Raut"
-    education  = "B.Tech CSE-AIML @ CMR Engineering College (2022–2026)"
-    focus      = ["Full Stack Development", "Backend Engineering", "Mobile Apps"]
-    building   = [
-        "Skippr — residential community platform",
-        "Trading strategy backtesting engine",
-        "LLM-powered applications & AI agents",
-    ]
-    stack      = {
-        "backend"  : ["Node.js", "Express", "PostgreSQL", "Supabase"],
-        "frontend" : ["React", "Vite", "Tailwind CSS"],
-        "mobile"   : ["Flutter", "React Native", "Expo"],
-        "ai"       : ["LangGraph", "RAG", "Gemini", "Vector DBs"],
-        "cloud"    : ["AWS EC2", "S3", "Nginx", "PM2", "Vercel"],
-    }
-    interests  = ["AI Agents", "RAG Systems", "Trading Systems", "System Design"]
-    currently  = "Building production apps & exploring AI engineering"
+### Who I am
+
+Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering College (2022–26).
+
+I build production-grade full-stack applications, cross-platform mobile apps, and am currently learning my way into AI/LLM engineering. I've worked across the stack — from REST APIs and PostgreSQL schemas to Flutter UIs and AWS deployments.
+
+I care about writing clean, functional code and shipping things that actually work.
+
+</td>
+<td width="4%"></td>
+<td width="44%" valign="top">
+
+### Right now
+
+```
+▸ building   Skippr — community platform
+▸ building   Trading backtesting engine
+▸ learning   LLM engineering, RAG, agents
+▸ exploring  LangGraph & AI workflows
+▸ open to    Interesting problems
 ```
 
----
+**Stack I reach for first**
+Node.js · PostgreSQL · React · Flutter · Python
 
-## Tech Stack
+</td>
+</tr>
+</table>
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-313244?style=flat-square&logo=cplusplus&logoColor=CBA6F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-313244?style=flat-square&logo=javascript&logoColor=F9E2AF)
-![TypeScript](https://img.shields.io/badge/TypeScript-313244?style=flat-square&logo=typescript&logoColor=89DCEB)
-![Python](https://img.shields.io/badge/Python-313244?style=flat-square&logo=python&logoColor=B4BEFE)
-![Dart](https://img.shields.io/badge/Dart-313244?style=flat-square&logo=dart&logoColor=89DCEB)
-![SQL](https://img.shields.io/badge/SQL-313244?style=flat-square&logo=postgresql&logoColor=CBA6F7)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-313244?style=flat-square&logo=nodedotjs&logoColor=A6E3A1)
-![Express](https://img.shields.io/badge/Express-313244?style=flat-square&logo=express&logoColor=CDD6F4)
-![REST API](https://img.shields.io/badge/REST%20APIs-313244?style=flat-square&logo=fastapi&logoColor=CBA6F7)
-![JWT](https://img.shields.io/badge/JWT-313244?style=flat-square&logo=jsonwebtokens&logoColor=CDD6F4)
-![Sequelize](https://img.shields.io/badge/Sequelize-313244?style=flat-square&logo=sequelize&logoColor=89DCEB)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-313244?style=flat-square&logo=react&logoColor=89DCEB)
-![React Native](https://img.shields.io/badge/React%20Native-313244?style=flat-square&logo=react&logoColor=89DCEB)
-![Flutter](https://img.shields.io/badge/Flutter-313244?style=flat-square&logo=flutter&logoColor=B4BEFE)
-![Expo](https://img.shields.io/badge/Expo-313244?style=flat-square&logo=expo&logoColor=CDD6F4)
-![Vite](https://img.shields.io/badge/Vite-313244?style=flat-square&logo=vite&logoColor=CBA6F7)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-313244?style=flat-square&logo=tailwindcss&logoColor=89DCEB)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-313244?style=flat-square&logo=postgresql&logoColor=B4BEFE)
-![MySQL](https://img.shields.io/badge/MySQL-313244?style=flat-square&logo=mysql&logoColor=CBA6F7)
-![MongoDB](https://img.shields.io/badge/MongoDB-313244?style=flat-square&logo=mongodb&logoColor=A6E3A1)
-![Supabase](https://img.shields.io/badge/Supabase-313244?style=flat-square&logo=supabase&logoColor=A6E3A1)
-![Firebase](https://img.shields.io/badge/Firebase-313244?style=flat-square&logo=firebase&logoColor=F9E2AF)
-
-**AI / ML**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-313244?style=flat-square&logo=langchain&logoColor=A6E3A1)
-![Gemini](https://img.shields.io/badge/Gemini-313244?style=flat-square&logo=google&logoColor=CBA6F7)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-313244?style=flat-square&logo=openai&logoColor=B4BEFE)
-![Vector DB](https://img.shields.io/badge/Vector%20DBs-313244?style=flat-square&logoColor=CDD6F4)
-
-**Cloud & DevOps**
-
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-313244?style=flat-square&logo=amazonec2&logoColor=F9E2AF)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-313244?style=flat-square&logo=amazons3&logoColor=F9E2AF)
-![Vercel](https://img.shields.io/badge/Vercel-313244?style=flat-square&logo=vercel&logoColor=CDD6F4)
-![Render](https://img.shields.io/badge/Render-313244?style=flat-square&logo=render&logoColor=A6E3A1)
-![Nginx](https://img.shields.io/badge/Nginx-313244?style=flat-square&logo=nginx&logoColor=A6E3A1)
-![PM2](https://img.shields.io/badge/PM2-313244?style=flat-square&logo=pm2&logoColor=CBA6F7)
-![Git](https://img.shields.io/badge/Git-313244?style=flat-square&logo=git&logoColor=FAB387)
+<br/>
 
 ---
 
-## Featured Projects
+## Stack
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossgghere&layout=compact&hide_border=true&bg_color=1C1917&title_color=D97706&text_color=A8A29E&langs_count=6" alt="Top Languages" width="38%" />
+
+**Core languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-292524?style=flat-square&logo=javascript&logoColor=FBBF24)
+![TypeScript](https://img.shields.io/badge/TypeScript-292524?style=flat-square&logo=typescript&logoColor=D97706)
+![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=FBBF24)
+![Dart](https://img.shields.io/badge/Dart-292524?style=flat-square&logo=dart&logoColor=D97706)
+![C++](https://img.shields.io/badge/C++-292524?style=flat-square&logo=cplusplus&logoColor=A8A29E)
+![SQL](https://img.shields.io/badge/SQL-292524?style=flat-square&logo=postgresql&logoColor=A8A29E)
+
+**Backend & databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=FBBF24)
+![Express](https://img.shields.io/badge/Express-292524?style=flat-square&logo=express&logoColor=A8A29E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=D97706)
+![Supabase](https://img.shields.io/badge/Supabase-292524?style=flat-square&logo=supabase&logoColor=FBBF24)
+![MongoDB](https://img.shields.io/badge/MongoDB-292524?style=flat-square&logo=mongodb&logoColor=A8A29E)
+![MySQL](https://img.shields.io/badge/MySQL-292524?style=flat-square&logo=mysql&logoColor=A8A29E)
+![Firebase](https://img.shields.io/badge/Firebase-292524?style=flat-square&logo=firebase&logoColor=FBBF24)
+![Sequelize](https://img.shields.io/badge/Sequelize-292524?style=flat-square&logo=sequelize&logoColor=D97706)
+
+**Frontend & mobile**
+
+![React](https://img.shields.io/badge/React-292524?style=flat-square&logo=react&logoColor=FBBF24)
+![React Native](https://img.shields.io/badge/React%20Native-292524?style=flat-square&logo=react&logoColor=D97706)
+![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FBBF24)
+![Expo](https://img.shields.io/badge/Expo-292524?style=flat-square&logo=expo&logoColor=A8A29E)
+![Tailwind](https://img.shields.io/badge/Tailwind-292524?style=flat-square&logo=tailwindcss&logoColor=D97706)
+![Vite](https://img.shields.io/badge/Vite-292524?style=flat-square&logo=vite&logoColor=FBBF24)
+
+**AI / LLM & cloud**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-292524?style=flat-square&logo=langchain&logoColor=FBBF24)
+![Gemini](https://img.shields.io/badge/Gemini-292524?style=flat-square&logo=google&logoColor=D97706)
+![RAG](https://img.shields.io/badge/RAG-292524?style=flat-square&logo=openai&logoColor=A8A29E)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-292524?style=flat-square&logo=amazonec2&logoColor=FBBF24)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-292524?style=flat-square&logo=amazons3&logoColor=D97706)
+![Nginx](https://img.shields.io/badge/Nginx-292524?style=flat-square&logo=nginx&logoColor=A8A29E)
+![Vercel](https://img.shields.io/badge/Vercel-292524?style=flat-square&logo=vercel&logoColor=F5F5F4)
+![Git](https://img.shields.io/badge/Git-292524?style=flat-square&logo=git&logoColor=D97706)
+
+<br/>
+
+---
+
+## Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🏘️ Skippr
-**Community Concierge Platform**
-
-A full-stack platform for residential communities. Covers resident authentication with OTP login, community & block/tower management, service requests, task workflows, real-time notifications, an admin dashboard, and a React Native resident app — deployed on AWS EC2 with Nginx and PM2.
-
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-313244?style=flat-square&logo=nodedotjs&logoColor=A6E3A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-313244?style=flat-square&logo=postgresql&logoColor=B4BEFE)
-![Supabase](https://img.shields.io/badge/Supabase-313244?style=flat-square&logo=supabase&logoColor=A6E3A1)
-![React Native](https://img.shields.io/badge/React%20Native-313244?style=flat-square&logo=react&logoColor=89DCEB)
-![AWS](https://img.shields.io/badge/AWS-313244?style=flat-square&logo=amazonaws&logoColor=F9E2AF)
+**🏘️ Skippr** &nbsp;·&nbsp; *Community Concierge Platform*
+
+Full-stack platform for residential communities. Resident auth & OTP login, block/tower management, service requests, task workflows, notifications, admin dashboard, and a React Native mobile app. Deployed on AWS EC2 with Nginx + PM2.
+
+![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=FBBF24)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=D97706)
+![Supabase](https://img.shields.io/badge/Supabase-292524?style=flat-square&logo=supabase&logoColor=FBBF24)
+![React Native](https://img.shields.io/badge/React%20Native-292524?style=flat-square&logo=react&logoColor=D97706)
+![AWS](https://img.shields.io/badge/AWS-292524?style=flat-square&logo=amazonaws&logoColor=A8A29E)
+
+<br/>
 
 </td>
 <td width="50%" valign="top">
-
-### 📈 Trading Backtesting Engine
-**Strategy Research & Analysis**
-
-A Python-based engine for evaluating trading strategies against historical market data. Implements configurable EMA-based strategies and surfaces performance metrics — Sharpe ratio, max drawdown, and win rate — for research and iteration.
-
 <br/>
 
-![Python](https://img.shields.io/badge/Python-313244?style=flat-square&logo=python&logoColor=B4BEFE)
-![yfinance](https://img.shields.io/badge/yfinance-313244?style=flat-square&logoColor=CDD6F4)
-![QuantConnect](https://img.shields.io/badge/QuantConnect%20%2F%20Lean-313244?style=flat-square&logoColor=CBA6F7)
-![Pandas](https://img.shields.io/badge/Pandas-313244?style=flat-square&logo=pandas&logoColor=B4BEFE)
+**🎬 Snaplay** &nbsp;·&nbsp; *OTT Streaming Platform*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Full-stack OTT platform for browsing and watching movies. Node.js backend handles content management, user auth, and streaming delivery. Clean React frontend for discovery and playback.
 
-### 🤖 AI / LLM Engineering
-**Currently Exploring**
-
-Actively building LLM-powered applications — RAG pipelines, multi-step AI agents, and LangGraph-orchestrated workflows. Focus is on practical, production-relevant tooling rather than toy prototypes.
+![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=FBBF24)
+![Express](https://img.shields.io/badge/Express-292524?style=flat-square&logo=express&logoColor=A8A29E)
+![React](https://img.shields.io/badge/React-292524?style=flat-square&logo=react&logoColor=FBBF24)
+![MongoDB](https://img.shields.io/badge/MongoDB-292524?style=flat-square&logo=mongodb&logoColor=D97706)
+![JWT](https://img.shields.io/badge/JWT-292524?style=flat-square&logo=jsonwebtokens&logoColor=A8A29E)
 
 <br/>
-
-![Python](https://img.shields.io/badge/Python-313244?style=flat-square&logo=python&logoColor=B4BEFE)
-![LangGraph](https://img.shields.io/badge/LangGraph-313244?style=flat-square&logo=langchain&logoColor=A6E3A1)
-![Gemini](https://img.shields.io/badge/Gemini-313244?style=flat-square&logo=google&logoColor=CBA6F7)
-![Vector DB](https://img.shields.io/badge/Vector%20DBs-313244?style=flat-square&logoColor=B4BEFE)
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile & Full Stack
-**Production Experience**
-
-Built and shipped cross-platform mobile apps in Flutter and React Native across internships and independent projects — integrating Firebase, Razorpay payments, AWS file storage, and Node.js backends into live applications.
-
-<br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-313244?style=flat-square&logo=flutter&logoColor=B4BEFE)
-![React Native](https://img.shields.io/badge/React%20Native-313244?style=flat-square&logo=react&logoColor=89DCEB)
-![Firebase](https://img.shields.io/badge/Firebase-313244?style=flat-square&logo=firebase&logoColor=F9E2AF)
-![Razorpay](https://img.shields.io/badge/Razorpay-313244?style=flat-square&logo=razorpay&logoColor=CBA6F7)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🎬 Snaplay
-**OTT Streaming Platform**
-
-A full-stack OTT platform for browsing and watching movies. Built with a Node.js backend powering content management, user authentication, and streaming delivery — with a clean frontend for discovery and playback.
-
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-313244?style=flat-square&logo=nodedotjs&logoColor=A6E3A1)
-![Express](https://img.shields.io/badge/Express-313244?style=flat-square&logo=express&logoColor=CDD6F4)
-![React](https://img.shields.io/badge/React-313244?style=flat-square&logo=react&logoColor=89DCEB)
-![MongoDB](https://img.shields.io/badge/MongoDB-313244?style=flat-square&logo=mongodb&logoColor=A6E3A1)
-![JWT](https://img.shields.io/badge/JWT-313244?style=flat-square&logo=jsonwebtokens&logoColor=CDD6F4)
+**📈 Backtesting Engine** &nbsp;·&nbsp; *Trading Strategy Research*
+
+Python engine for evaluating trading strategies on historical market data. EMA-based strategies with configurable parameters; surfaces Sharpe ratio, max drawdown, and win rate for iteration.
+
+![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=FBBF24)
+![yfinance](https://img.shields.io/badge/yfinance-292524?style=flat-square&logoColor=D97706)
+![Pandas](https://img.shields.io/badge/Pandas-292524?style=flat-square&logo=pandas&logoColor=FBBF24)
+![QuantConnect](https://img.shields.io/badge/QuantConnect%20%2F%20Lean-292524?style=flat-square&logoColor=A8A29E)
+
+<br/>
 
 </td>
 <td width="50%" valign="top">
+<br/>
 
-### 🌐 gourav.fun
-**Personal Portfolio**
+**🌐 gourav.fun** &nbsp;·&nbsp; *Personal Portfolio* &nbsp; [↗](https://www.gourav.fun/)
 
-My personal portfolio — built to showcase my work, stack, and projects. Designed with a focus on clean presentation and performance, deployed on Vercel.
+My personal site — clean, fast, focused on showcasing work and stack. Built with React + Vite, deployed on Vercel.
 
-[gourav.fun](https://www.gourav.fun/)
+![React](https://img.shields.io/badge/React-292524?style=flat-square&logo=react&logoColor=FBBF24)
+![Vite](https://img.shields.io/badge/Vite-292524?style=flat-square&logo=vite&logoColor=D97706)
+![Tailwind](https://img.shields.io/badge/Tailwind-292524?style=flat-square&logo=tailwindcss&logoColor=FBBF24)
+![Vercel](https://img.shields.io/badge/Vercel-292524?style=flat-square&logo=vercel&logoColor=A8A29E)
 
 <br/>
 
-![React](https://img.shields.io/badge/React-313244?style=flat-square&logo=react&logoColor=89DCEB)
-![Vite](https://img.shields.io/badge/Vite-313244?style=flat-square&logo=vite&logoColor=CBA6F7)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-313244?style=flat-square&logo=tailwindcss&logoColor=89DCEB)
-![Vercel](https://img.shields.io/badge/Vercel-313244?style=flat-square&logo=vercel&logoColor=CDD6F4)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br/>
+
+**🤖 AI / LLM Engineering** &nbsp;·&nbsp; *Currently Exploring*
+
+Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangGraph workflows. Focused on production-relevant tooling, not prototypes.
+
+![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=FBBF24)
+![LangGraph](https://img.shields.io/badge/LangGraph-292524?style=flat-square&logo=langchain&logoColor=D97706)
+![Gemini](https://img.shields.io/badge/Gemini-292524?style=flat-square&logo=google&logoColor=FBBF24)
+![Vector DB](https://img.shields.io/badge/Vector%20DBs-292524?style=flat-square&logoColor=A8A29E)
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+<br/>
+
+**📱 Mobile & Full Stack** &nbsp;·&nbsp; *Production Experience*
+
+Cross-platform mobile apps in Flutter and React Native across internships and independent work — integrating Firebase, Razorpay, AWS, and Node.js backends into live apps.
+
+![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FBBF24)
+![React Native](https://img.shields.io/badge/React%20Native-292524?style=flat-square&logo=react&logoColor=D97706)
+![Firebase](https://img.shields.io/badge/Firebase-292524?style=flat-square&logo=firebase&logoColor=FBBF24)
+![Razorpay](https://img.shields.io/badge/Razorpay-292524?style=flat-square&logo=razorpay&logoColor=A8A29E)
+
+<br/>
 
 </td>
 </tr>
 </table>
 </div>
 
+<br/>
+
 ---
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bossgghere&show_icons=true&hide_border=true&count_private=true&bg_color=1e1e2e&title_color=CBA6F7&icon_color=B4BEFE&text_color=CDD6F4&ring_color=CBA6F7" alt="GitHub Stats" height="175" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bossgghere&hide_border=true&bg_color=1C1917&color=D97706&line=FBBF24&point=F5F5F4&area=true&area_color=292524" alt="Contribution Graph" width="100%" />
+
+</div>
+
+<div align="center">
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bossgghere&show_icons=true&hide_border=true&count_private=true&bg_color=1C1917&title_color=D97706&icon_color=FBBF24&text_color=A8A29E&ring_color=D97706" alt="GitHub Stats" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossgghere&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=CBA6F7&text_color=CDD6F4&langs_count=8" alt="Top Languages" height="175" />
+<img src="https://streak-stats.demolab.com/?user=bossgghere&hide_border=true&background=1C1917&ring=D97706&fire=FBBF24&currStreakLabel=D97706&sideLabels=78716C&dates=78716C&sideNums=F5F5F4&currStreakNum=F5F5F4" alt="Streak" height="165" />
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=bossgghere&hide_border=true&background=1e1e2e&ring=CBA6F7&fire=FAB387&currStreakLabel=CBA6F7&sideLabels=A6ADC8&dates=A6ADC8&sideNums=CDD6F4&currStreakNum=CDD6F4" alt="GitHub Streak" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bossgghere&hide_border=true&bg_color=1e1e2e&color=CBA6F7&line=B4BEFE&point=CBA6F7&area=true&area_color=313244" alt="Contribution Graph" width="100%" />
-
-</div>
+<br/>
 
 ---
 
 ## Contribution Snake
 
-<!-- Snake SVG is auto-generated by the GitHub Actions workflow at .github/workflows/snake.yml -->
+<!-- Auto-generated by .github/workflows/snake.yml — trigger the workflow once to activate -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/bossgghere/bossgghere/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bossgghere/bossgghere/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/bossgghere/bossgghere/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/bossgghere/bossgghere/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
----
+<br/>
 
-## Let's Connect
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-bossgghere-1e1e2e?style=for-the-badge&logo=github&logoColor=CDD6F4)](https://github.com/bossgghere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Raut-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=CBA6F7)](https://www.linkedin.com/in/gourav-raut)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gourav.fun-1e1e2e?style=for-the-badge&logo=vercel&logoColor=B4BEFE)](https://www.gourav.fun/)
+**Let's build something.**
+
+[![GitHub](https://img.shields.io/badge/-bossgghere-292524?style=flat-square&logo=github&logoColor=F5F5F4)](https://github.com/bossgghere)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-Gourav%20Raut-292524?style=flat-square&logo=linkedin&logoColor=D97706)](https://www.linkedin.com/in/gourav-raut)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-gourav.fun-292524?style=flat-square&logo=vercel&logoColor=F5F5F4)](https://www.gourav.fun/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bossgghere&color=CBA6F7&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:292524,50:1C1917,100:0C0A09&height=100&section=footer&reversal=true" alt="Footer" width="100%" />
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=120&section=footer" alt="Footer" width="100%" />
