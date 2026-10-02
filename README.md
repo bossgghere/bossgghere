@@ -5,7 +5,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=680&lines=Building+production+apps+from+0+%E2%86%92+Play+Store;10K%2B+downloads+%7C+800%2B+students+trained;Full+Stack+%7C+Flutter+%7C+Node.js+%7C+AI+%2F+LLM;Open+for+freelance+%26+interesting+collabs" alt="Typing SVG" />
 
-<br/><br/>
+<br />
+<br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-bossgghere-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bossgghere)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Raut-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-raut)
