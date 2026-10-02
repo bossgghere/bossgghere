@@ -41,6 +41,7 @@ Open to freelance projects and interesting collabs.
 
 ---
 
+<!-- experience -->
 ## Experience
 
 <table width="100%">
