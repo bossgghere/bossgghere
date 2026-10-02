@@ -305,6 +305,7 @@ Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangG
 
 ---
 
+<!-- stats -->
 ## Stats
 
 <div align="center">
