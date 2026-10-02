@@ -1,3 +1,4 @@
+<!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,60:1a1a3e,100:6366F1&height=240&section=header&text=Gourav%20Raut&fontSize=70&fontColor=E2E8F0&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20Mobile%20%7C%20AI%20%7C%20Web3&descSize=18&descColor=818CF8&descAlignY=62" alt="Header" width="100%" />
 
 <div align="center">
