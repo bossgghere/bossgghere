@@ -20,7 +20,7 @@
 
 ![Followers](https://img.shields.io/github/followers/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=followers)&nbsp;
 ![Stars](https://img.shields.io/github/stars/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=stars)&nbsp;
-![Profile Views](https://visitcount.itsvg.in/api?id=bossgghere&label=Profile%20Views&color=6&icon=5&pretty=false)
+[![Profile Views](https://komarev.com/ghpvc/?username=bossgghere&color=6366f1&style=flat-square&label=Profile%20Views)](https://github.com/bossgghere)
 
 </div>
 
@@ -381,7 +381,7 @@ A software agency focused on turning ideas into live products.
 
 <br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=bossgghere&label=Profile%20Views&color=6&icon=5&pretty=false)
+[![Profile Views](https://komarev.com/ghpvc/?username=bossgghere&color=6366f1&style=flat-square&label=Profile%20Views)](https://github.com/bossgghere)
 
 </div>
 
