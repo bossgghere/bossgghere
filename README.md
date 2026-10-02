@@ -356,6 +356,7 @@ Building LLM-powered applications — RAG pipelines, multi-step AI agents, LangG
 
 <div align="center">
 
+<!-- agency -->
 ### 🏢 One Day Studio
 
 **We ship full production-level applications — fast.**
