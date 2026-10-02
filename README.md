@@ -20,7 +20,7 @@
 
 ![Followers](https://img.shields.io/github/followers/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=followers)&nbsp;
 ![Stars](https://img.shields.io/github/stars/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=stars)&nbsp;
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossgghere&count_bg=%236366F1&title_bg=%231E1E2E&icon=eye.svg&icon_color=%23818CF8&title=profile+views&edge_flat=true)
+![Profile Views](https://visitcount.itsvg.in/api?id=bossgghere&label=Profile%20Views&color=6&icon=5&pretty=false)
 
 </div>
 
@@ -381,7 +381,7 @@ A software agency focused on turning ideas into live products.
 
 <br/>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossgghere&count_bg=%236366F1&title_bg=%231E1E2E&icon=eye.svg&icon_color=%23818CF8&title=profile+views&edge_flat=true)
+![Profile Views](https://visitcount.itsvg.in/api?id=bossgghere&label=Profile%20Views&color=6&icon=5&pretty=false)
 
 </div>
 
