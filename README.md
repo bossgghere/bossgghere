@@ -110,6 +110,7 @@ Built EduLink, a real-time learning app (Flutter GetX + MERN) increasing engagem
 
 ---
 
+<!-- stack -->
 ## Stack
 
 **Core languages**
