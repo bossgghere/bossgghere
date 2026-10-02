@@ -28,6 +28,7 @@
 
 ---
 
+<!-- about -->
 ### Who I am
 
 Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering College (2022–26).
