@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Raut-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-raut)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gourav.fun-818CF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gourav.fun/)
 [![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Freelance%20%26%20Full%20Time-22c55e?style=for-the-badge&logoColor=white)](mailto:gouravraut1234@gmail.com)
+[![Agency](https://img.shields.io/badge/Agency-products%20shipped-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/dhPTnF8S)
 
 ![Followers](https://img.shields.io/github/followers/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=followers)&nbsp;
 ![Stars](https://img.shields.io/github/stars/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=stars)&nbsp;
@@ -92,21 +93,21 @@ Open to freelance projects and interesting collabs.
 </td>
 <td valign="top">
 
-**🤖 Polymarket Bot**
-<br/>Strategy-driven trading bot with Polygon wallets.
+**💬 [WhatsApp Group Bot](https://github.com/bossgghere/Whatsapp-Group-Bot)** · [post ↗](https://lnkd.in/p/egiMtckC)
+<br/>Automation bot for managing WhatsApp groups.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**⚡ Lovable Clone**
-<br/>AI no-code app builder — React, OpenAI, Prisma.
+**🕸️ [AgentGrid Kitchen](https://github.com/bossgghere/AgentGrid-Kitchen)**
+<br/>Multi-agent automation system.
 
 </td>
 <td valign="top">
 
-**🔗 Web3 Bank DApp**
+**🔗 [Web3 Bank DApp](https://lnkd.in/p/eiCb356X)**
 <br/>On-chain banking — Solidity + Flutter.
 
 </td>
@@ -114,8 +115,8 @@ Open to freelance projects and interesting collabs.
 <tr>
 <td valign="top">
 
-**📈 Backtesting Engine**
-<br/>Python EMA strategy tester with Sharpe and drawdown.
+**🧪 [AI Strategy Tester](https://holdmycoffee.lol/)**
+<br/>AI-driven backtesting — Sharpe, drawdown, win rate.
 
 </td>
 <td valign="top">
