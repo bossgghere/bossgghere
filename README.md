@@ -1,30 +1,20 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,60:1a1a3e,100:6366F1&height=240&section=header&text=Gourav%20Raut&fontSize=70&fontColor=E2E8F0&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20Mobile%20%7C%20AI%20%7C%20Web3&descSize=18&descColor=818CF8&descAlignY=62" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,60:1a1a3e,100:6366F1&height=170&section=header&text=Gourav%20Raut&fontSize=56&fontColor=E2E8F0&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20Mobile%20%7C%20AI%20%7C%20Web3&descSize=16&descColor=818CF8&descAlignY=62" alt="Header" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=680&lines=Building+production+apps+from+0+%E2%86%92+Play+Store;10K%2B+downloads+%7C+800%2B+students+trained;Full+Stack+%7C+Flutter+%7C+Node.js+%7C+AI+%2F+LLM;Open+for+freelance+%26+interesting+collabs" alt="Typing SVG" />
-
-<br />
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=680&height=28&lines=Building+production+apps+from+0+%E2%86%92+Play+Store;10K%2B+downloads+%7C+800%2B+students+trained;Full+Stack+%7C+Flutter+%7C+Node.js+%7C+AI+%2F+LLM;Open+for+freelance+%26+interesting+collabs" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-bossgghere-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bossgghere)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Raut-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-raut)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gourav.fun-818CF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gourav.fun/)
-
-<br/>
-
 [![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Freelance%20%26%20Full%20Time-22c55e?style=for-the-badge&logoColor=white)](mailto:gouravraut1234@gmail.com)
-
-<br/>
 
 ![Followers](https://img.shields.io/github/followers/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=followers)&nbsp;
 ![Stars](https://img.shields.io/github/stars/bossgghere?style=flat-square&color=1E1E2E&labelColor=1E1E2E&logo=github&logoColor=818CF8&label=stars)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=bossgghere&color=6366f1&style=flat-square&label=Profile%20Views)](https://github.com/bossgghere)
 
 </div>
-
-<br/>
 
 ---
 
