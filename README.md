@@ -20,6 +20,11 @@
 ---
 
 <!-- about -->
+<table>
+<tr>
+<td width="50%" valign="middle"><img src="assets/portrait.svg" width="420" alt="ASCII portrait of Gourav Raut" /></td>
+<td width="50%" valign="middle">
+
 ### Who I am
 
 Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering College (2022–26).
@@ -27,6 +32,10 @@ Software engineer based in India, final year B.Tech CSE-AIML at CMR Engineering 
 I build, ship, and maintain production apps — full-stack platforms, mobile apps, and backend systems handling real users. Shipped products with **10K+ downloads**, trained **800+ students**, and worked the full stack from APIs to cloud deployments. Currently exploring AI/LLM engineering and on-chain systems.
 
 Open to freelance projects and interesting collabs.
+
+</td>
+</tr>
+</table>
 
 ---
 
