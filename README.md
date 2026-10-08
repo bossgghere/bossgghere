@@ -183,30 +183,18 @@ Open to freelance projects and interesting collabs.
 
 <div align="center">
 
-<!-- agency -->
-### 🏢 One Day Studio
+<!-- connect -->
+### 🏢 One Day Studio · Let's build something
 
 **We ship full production-level applications — fast.**
 A software agency focused on turning ideas into live products.
 
 [![One Day Studio](https://img.shields.io/badge/One%20Day%20Studio-onedaystudio.in-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.onedaystudio.in/)
-
-<br/>
-
----
-
-<!-- connect -->
-### Let's build something
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-gouravraut1234%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravraut1234@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-bossgghere-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bossgghere)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Raut-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-raut)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gourav.fun-818CF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gourav.fun/)
-
-<br/>
-
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-gouravraut1234%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravraut1234@gmail.com)
-
-<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bossgghere&color=6366f1&style=flat-square&label=Profile%20Views)](https://github.com/bossgghere)
 
