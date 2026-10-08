@@ -28,8 +28,6 @@ I build, ship, and maintain production apps — full-stack platforms, mobile app
 
 Open to freelance projects and interesting collabs.
 
-<br/>
-
 ---
 
 <!-- experience -->
@@ -50,8 +48,6 @@ Open to freelance projects and interesting collabs.
 **Cloud InfraTech** · Flutter Developer & Trainer · *May – Jul 2025*
 <br/>Built EduLink, trained **800+ students**. Flutter, MERN.
 
-<br/>
-
 ---
 
 <!-- stack -->
@@ -61,8 +57,6 @@ Open to freelance projects and interesting collabs.
 <br/>**Mobile & web** &nbsp; Flutter · React Native · React · Tailwind
 <br/>**Backend** &nbsp; Node.js · FastAPI · Django · PostgreSQL · Supabase · MongoDB · Prisma
 <br/>**AI & cloud** &nbsp; LangGraph · Gemini · n8n · AWS · Cloudflare · Vercel
-
-<br/>
 
 ---
 
@@ -114,8 +108,6 @@ Open to freelance projects and interesting collabs.
 </tr>
 </table>
 
-<br/>
-
 ---
 
 <!-- stats -->
@@ -126,8 +118,6 @@ Open to freelance projects and interesting collabs.
 <img src="https://streak-stats.demolab.com/?user=bossgghere&hide_border=true&background=13131F&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=475569&dates=475569&sideNums=E2E8F0&currStreakNum=E2E8F0" alt="Streak" width="55%" />
 
 </div>
-
-<br/>
 
 ---
 
