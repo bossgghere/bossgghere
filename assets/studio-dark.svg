@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="140" viewBox="0 0 830 140" fill="none" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+  <radialGradient id="og" cx="0.95" cy="0.0" r="0.75">
+    <stop offset="0" stop-color="#6366F1" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="ot" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <clipPath id="ok"><rect width="830" height="140" rx="26"/></clipPath>
+</defs>
+<style>
+  .pulse{animation:p 2.4s ease-in-out infinite}
+  @keyframes p{0%,100%{opacity:1}50%{opacity:.35}}
+  .drift{animation:d 9s ease-in-out infinite alternate}
+  @keyframes d{from{transform:translateX(0)}to{transform:translateX(-24px)}}
+</style>
+<rect width="830" height="140" rx="26" fill="#14141C"/>
+<g clip-path="url(#ok)"><rect class="drift" x="-30" width="890" height="140" fill="url(#og)"/></g>
+<rect x=".5" y=".5" width="829" height="139" rx="25.5" stroke="#FFFFFF" stroke-opacity=".08"/>
+
+<text x="32" y="46" font-size="13" font-weight="600" letter-spacing="1.5" fill="#5E5E6E">STUDIO</text>
+<text x="32" y="88" font-size="30" font-weight="700" letter-spacing="-.8" fill="#F5F5F7">One Day Studio</text>
+<text x="32" y="116" font-size="16" fill="#9A9AA8">We ship full production apps — fast.</text>
+<text x="798" y="60" font-size="26" text-anchor="end" fill="url(#ot)">↗</text>
+
+</svg>

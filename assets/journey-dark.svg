@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="205" viewBox="0 0 830 205" fill="none" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+  <radialGradient id="jg" cx="0.1" cy="1.0" r="0.75">
+    <stop offset="0" stop-color="#6366F1" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="jt" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <clipPath id="jk"><rect width="830" height="205" rx="26"/></clipPath>
+</defs>
+<style>
+  .pulse{animation:p 2.4s ease-in-out infinite}
+  @keyframes p{0%,100%{opacity:1}50%{opacity:.35}}
+  .drift{animation:d 9s ease-in-out infinite alternate}
+  @keyframes d{from{transform:translateX(0)}to{transform:translateX(-24px)}}
+</style>
+<rect width="830" height="205" rx="26" fill="#14141C"/>
+<g clip-path="url(#jk)"><rect class="drift" x="-30" width="890" height="205" fill="url(#jg)"/></g>
+<rect x=".5" y=".5" width="829" height="204" rx="25.5" stroke="#FFFFFF" stroke-opacity=".08"/>
+<text x="32" y="46" font-size="13" font-weight="600" letter-spacing="1.5" fill="#5E5E6E">EXPERIENCE</text>
+<line x1="40" y1="84" x2="680" y2="84" stroke="#FFFFFF" stroke-opacity=".14"/>
+<circle cx="40" cy="84" r="5" fill="#6366F1"/>
+<circle class="pulse" cx="40" cy="84" r="9" stroke="#6366F1" stroke-opacity=".5"/>
+<text x="35" y="116" font-size="12" font-family="'SF Mono',ui-monospace,Menlo,Consolas,monospace" fill="#9A9AA8">Oct 2026 — now</text>
+<text x="35" y="142" font-size="16" font-weight="600" fill="#F5F5F7">Algo Chowk</text>
+<text x="35" y="164" font-size="13" fill="#9A9AA8">AlgoTrade · FastAPI,</text>
+<text x="35" y="182" font-size="13" fill="#9A9AA8">LangGraph, Gemini</text>
+<circle cx="200" cy="84" r="5" fill="#5E5E6E"/>
+<text x="195" y="116" font-size="12" font-family="'SF Mono',ui-monospace,Menlo,Consolas,monospace" fill="#9A9AA8">Jun 2025 — Oct 2026</text>
+<text x="195" y="142" font-size="16" font-weight="600" fill="#F5F5F7">SUAS Enterprises</text>
+<text x="195" y="164" font-size="13" fill="#9A9AA8">Skippr · React Native,</text>
+<text x="195" y="182" font-size="13" fill="#9A9AA8">Supabase, AWS</text>
+<circle cx="360" cy="84" r="5" fill="#5E5E6E"/>
+<text x="355" y="116" font-size="12" font-family="'SF Mono',ui-monospace,Menlo,Consolas,monospace" fill="#9A9AA8">Nov 2025 — Apr 2026</text>
+<text x="355" y="142" font-size="16" font-weight="600" fill="#F5F5F7">Mandin Studios</text>
+<text x="355" y="164" font-size="13" fill="#9A9AA8">2 apps · Flutter,</text>
+<text x="355" y="182" font-size="13" fill="#9A9AA8">Node.js, Django</text>
+<circle cx="520" cy="84" r="5" fill="#5E5E6E"/>
+<text x="515" y="116" font-size="12" font-family="'SF Mono',ui-monospace,Menlo,Consolas,monospace" fill="#9A9AA8">Aug — Nov 2025</text>
+<text x="515" y="142" font-size="16" font-weight="600" fill="#F5F5F7">VOIX Digital</text>
+<text x="515" y="164" font-size="13" fill="#9A9AA8">SnapLay · Flutter,</text>
+<text x="515" y="182" font-size="13" fill="#9A9AA8">Node.js, AWS</text>
+<circle cx="680" cy="84" r="5" fill="#5E5E6E"/>
+<text x="675" y="116" font-size="12" font-family="'SF Mono',ui-monospace,Menlo,Consolas,monospace" fill="#9A9AA8">May — Jul 2025</text>
+<text x="675" y="142" font-size="16" font-weight="600" fill="#F5F5F7">Cloud InfraTech</text>
+<text x="675" y="164" font-size="13" fill="#9A9AA8">EduLink · Flutter,</text>
+<text x="675" y="182" font-size="13" fill="#9A9AA8">MERN</text>
+</svg>

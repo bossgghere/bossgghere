@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="200" viewBox="0 0 830 200" fill="none" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+  <radialGradient id="sg" cx="0.95" cy="1.0" r="0.75">
+    <stop offset="0" stop-color="#6366F1" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="st" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <clipPath id="sk"><rect width="830" height="200" rx="26"/></clipPath>
+</defs>
+<style>
+  .pulse{animation:p 2.4s ease-in-out infinite}
+  @keyframes p{0%,100%{opacity:1}50%{opacity:.35}}
+  .drift{animation:d 9s ease-in-out infinite alternate}
+  @keyframes d{from{transform:translateX(0)}to{transform:translateX(-24px)}}
+</style>
+<rect width="830" height="200" rx="26" fill="#14141C"/>
+<g clip-path="url(#sk)"><rect class="drift" x="-30" width="890" height="200" fill="url(#sg)"/></g>
+<rect x=".5" y=".5" width="829" height="199" rx="25.5" stroke="#FFFFFF" stroke-opacity=".08"/>
+<text x="32" y="46" font-size="13" font-weight="600" letter-spacing="1.5" fill="#5E5E6E">STACK</text>
+<text x="32" y="84" font-size="15" font-weight="600" fill="#F5F5F7">Mobile</text>
+<text x="160" y="84" font-size="15" fill="#9A9AA8">Flutter · React Native · Expo</text>
+<text x="32" y="114" font-size="15" font-weight="600" fill="#F5F5F7">Backend</text>
+<text x="160" y="114" font-size="15" fill="#9A9AA8">Node.js · Django · PostgreSQL · Supabase · Prisma</text>
+<text x="32" y="144" font-size="15" font-weight="600" fill="#F5F5F7">AI &amp; Web3</text>
+<text x="160" y="144" font-size="15" fill="#9A9AA8">LangGraph · Gemini · n8n · Solidity</text>
+<text x="32" y="174" font-size="15" font-weight="600" fill="#F5F5F7">Cloud</text>
+<text x="160" y="174" font-size="15" fill="#9A9AA8">AWS · Cloudflare · Vercel · Nginx</text>
+</svg>
