@@ -140,12 +140,6 @@ Open to freelance projects and interesting collabs.
 <td>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bossgghere&theme=github_dark" alt="GitHub Stats" />
 </td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bossgghere&theme=github_dark" alt="Top Languages" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bossgghere&theme=github_dark" alt="Most Used" />
-</td>
 </tr></table>
 </div>
 
