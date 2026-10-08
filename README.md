@@ -122,7 +122,7 @@ Open to freelance projects and interesting collabs.
 <td valign="top">
 
 **🌐 [gourav.fun](https://www.gourav.fun/)**
-<br/>Personal portfolio — React, Vite, Vercel.
+<br/>Personal portfolio — React, Vite, GSAP animations, Vercel.
 
 </td>
 </tr>
