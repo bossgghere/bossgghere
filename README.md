@@ -74,7 +74,7 @@ Open to freelance projects and interesting collabs.
 <td width="50%" valign="top">
 
 **📊 [AlgoTrade](https://holdmycoffee.lol/)**
-<br/>Plain-English ideas to backtested strategies for Indian markets.
+<br/>AI strategy tester — plain-English ideas to backtested strategies for Indian markets.
 
 </td>
 <td width="50%" valign="top">
@@ -93,36 +93,22 @@ Open to freelance projects and interesting collabs.
 </td>
 <td valign="top">
 
-**💬 [WhatsApp Group Bot](https://github.com/bossgghere/Whatsapp-Group-Bot)** · [post ↗](https://lnkd.in/p/egiMtckC)
-<br/>Automation bot for managing WhatsApp groups.
+**🕸️ [AgentGrid Kitchen](https://github.com/bossgghere/AgentGrid-Kitchen)**
+<br/>Multi-agent automation system.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**🕸️ [AgentGrid Kitchen](https://github.com/bossgghere/AgentGrid-Kitchen)**
-<br/>Multi-agent automation system.
+**💬 [WhatsApp Group Bot](https://github.com/bossgghere/Whatsapp-Group-Bot)** · [post ↗](https://lnkd.in/p/egiMtckC)
+<br/>Automation bot for managing WhatsApp groups.
 
 </td>
 <td valign="top">
 
 **🔗 [Web3 Bank DApp](https://lnkd.in/p/eiCb356X)**
 <br/>On-chain banking — Solidity + Flutter.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**🧪 [AI Strategy Tester](https://holdmycoffee.lol/)**
-<br/>AI-driven backtesting — Sharpe, drawdown, win rate.
-
-</td>
-<td valign="top">
-
-**🌐 [gourav.fun](https://www.gourav.fun/)**
-<br/>Personal portfolio — React, Vite, GSAP animations, Vercel.
 
 </td>
 </tr>
