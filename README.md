@@ -136,14 +136,6 @@ Open to freelance projects and interesting collabs.
 ## Stats
 
 <div align="center">
-<table><tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bossgghere&theme=github_dark" alt="GitHub Stats" />
-</td>
-</tr></table>
-</div>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=bossgghere&hide_border=true&background=13131F&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=475569&dates=475569&sideNums=E2E8F0&currStreakNum=E2E8F0" alt="Streak" width="55%" />
 
