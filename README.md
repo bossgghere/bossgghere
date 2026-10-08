@@ -155,12 +155,6 @@ Open to freelance projects and interesting collabs.
 
 </div>
 
-<div align="center">
-
-![Contribution Graph](https://ghchart.rshah.org/6366F1/bossgghere)
-
-</div>
-
 <br/>
 
 ---
